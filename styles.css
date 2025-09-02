@@ -1,0 +1,67 @@
+
+
+:root {
+    --cor-texto: #1e1e1e;
+    --cor-texto-hover: #252530;
+    --cor-texto-claro: #ffffff;
+    --cor-texto-destaque: #6F99FF;
+    --cor-faixa-etaria: #F5D010;
+    --cor-faixa-etaria-livre: #C3FF95;
+
+    --cor-de-fundo-faixa-etaria: #EFEFEF;
+    --cor-de-fundo-input: #EFEFEF;
+    --cor-de-fundo: #ffffff;
+    --cor-de-fundo-newsletter: #CCDBFF;
+    --cor-de-fundo-footer: #1E1E1E;
+    --cor-de-fundo-combo: #111114;
+
+    --border-color: #A6A6A6;
+    --box-shadow-card: 0px 4px 24px 0px #7B7B7B26;
+
+    --fonte-texto: 'Poppins', sans-serif;
+    --fonte-titulo: 'Dela Gothic One', sans-serif;
+
+    --gap-xs: 0.5rem;
+    --gap-s: 1rem;
+    --gap-m: 1.5rem;
+    --gap-l: 2rem;
+    --gap-xl: 3.5rem;
+
+    --padding-xs: 0.5rem;
+    --padding-s: 1rem;
+    --padding-m: 1.5rem;
+    --padding-l: 2rem;
+    --padding-xl: 3.5rem;
+    --padding-xxl: 5rem;
+
+    --font-size-xs: 0.75rem;
+    --font-size-s: 1rem;
+    --font-size-m: 1.25rem;
+    --font-size-l: 1.5rem;
+    --font-size-xl: 3rem;
+    --font-size-xxl: 4.75rem;
+
+    --max-width-block: 75rem;
+
+    
+        --margin-xs: 0.5rem;
+        --margin-s: 1rem;
+        --margin-m: 1.5rem;
+        --margin-l: 2rem;
+
+        --line-height-xs: 1.2rem;
+        --line-height-s: 1.5rem;
+        --line-height-m: 1.75rem;
+        --line-height-l: 2rem;
+        --line-height-xl: 2.5rem;
+        --line-height-xxl: 5.7rem;
+    
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
