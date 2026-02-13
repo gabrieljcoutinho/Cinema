@@ -28,7 +28,7 @@ As principais técnicas e tecnologias utilizadas neste projeto são:
     - **`flex-basis`**: Define o tamanho inicial do item antes de o espaço disponível ser distribuído.
     - **`flex`**: Combina `flex-grow`, `flex-shrink` e `flex-basis` em uma única propriedade para maior simplicidade.
     - **`align-self`**: Permite modificar o alinhamento de um item específico, substituindo o valor definido em `align-items` para aquele item.
-
+ 
 Esses atributos são essenciais para criar um layout flexível, garantindo que a página seja responsiva e adaptável a diferentes tamanhos de tela e dispositivos.
 
 ## 📁 Acesso ao Projeto
